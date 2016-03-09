@@ -14,6 +14,10 @@ Advanced Numerical Techniques Lab
 	- [x] Report (PDF)
 	- [x] Submission
 - [Assignment 4](Assignment - 4/README.md)
+	- [x] Code
+	- [x] Report (PDF)
+	- [x] Submission
+- [Assignment 5](Assignment - 5/README.md)
 	- [ ] Code
 	- [ ] Report (PDF)
 	- [ ] Submission
